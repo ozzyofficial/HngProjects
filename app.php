@@ -21,8 +21,8 @@ $response = [
     "current_day" => getCurrentDayOfWeek(),
     "utc_time" => getCurrentUtcTime(),
     "track" => $track,
-    "github_file_url" => "https://github.com/username/repo/blob/main/file_name.ext", // Replace with your actual GitHub file URL
-    "github_repo_url" => "https://github.com/username/repo", // Replace with your actual GitHub repository URL
+    "github_file_url" => "https://github.com/ozzyofficial/HngProjects/blob/main/app.php", 
+    "github_repo_url" => "https://github.com/ozzyofficial/HngProjects", 
     "status_code" => 200,
 ];
 
